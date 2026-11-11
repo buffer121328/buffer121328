@@ -4,8 +4,8 @@
 
 <div align="center">
 
-独立开发者 · 专注 **AI Agent 应用** 与 **本地优先** 工具
-*Independent developer building AI agents & local-first tools.*
+独立开发者 · 专注 **AI Agent 应用**
+*Independent developer building AI agents.*
 
 [![Zode](https://img.shields.io/badge/Zode-8A2BE2?style=for-the-badge&logo=electron&logoColor=white)](https://github.com/buffer121328/zode)
 

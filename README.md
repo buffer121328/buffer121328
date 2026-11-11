@@ -40,7 +40,6 @@
 
 ![AI coding agent](https://img.shields.io/badge/AI_coding_agent-1f6feb?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG_知识图谱-8957e5?style=flat-square)
-![local-first](https://img.shields.io/badge/local--first-2ea043?style=flat-square)
 ![隐私与可审计](https://img.shields.io/badge/隐私_可审计-e3b341?style=flat-square)
 
 ---
